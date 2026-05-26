@@ -14,4 +14,4 @@ Vape V4. Minecraft Java Edition utility client.
 
 
 TAGS
-vape, vape-v4, minecraft-client, minecraft-java
+vape, vape-v4, minecraft-client, minecraft-java 
